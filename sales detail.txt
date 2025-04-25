@@ -1,0 +1,8 @@
+--column---
+________________________________________________________________________________________________
+date country |state |sales_person |Product_type |product_name |sales_price |manufac_price |sales_unit
+_______________________________________________________________________________________________________
+
+1. Total revenue.
+2. Top rank of product type in each country by sales
+3. 
